@@ -8,7 +8,7 @@ import React, { useState } from 'react';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import Alerts from './components/Alerts';
-import About from './components/About';
+// import About from './components/About';
 
 function App() {
   const [mode, setMode] = useState('dark');
